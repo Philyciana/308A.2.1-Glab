@@ -29,7 +29,7 @@ class Character {
 
   }
 
-  const robin = new Character("Robin");
+  const robin = new Character("Robina");
 robin.inventory = ["sword", "potion", "artifact"];
 robin.companion = new Character("Leo");
 robin.companion.type = "Cat";
